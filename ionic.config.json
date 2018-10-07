@@ -1,0 +1,7 @@
+{
+  "name": "maPetanque",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
